@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>Nový začiatok</h1>
+    <h3>Este jeden mali podnadpis pre commit</h3>
   </div>
 </template>
 
